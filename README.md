@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shahid Ali student of Artificila intelligence.<br>My interests: AI || ML || DL || NLP || COMPTER VISION || Reinforcement Learning.<br>Good in Critical thinking, Problem Solving, Communication.
+# I am Shahid Ali student of Artificial intelligence.<br>My interests: AI || ML || DL || NLP || COMPTER VISION || Reinforcement Learning.<br>Good in Critical thinking, Problem Solving, Communication.
 
 
 ## 🌐 Socials:
